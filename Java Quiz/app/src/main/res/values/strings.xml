@@ -1,0 +1,43 @@
+<resources>
+
+
+
+
+
+    <string name="q1rb1">A- static</string>
+    <string name="q1rb2">B- Boolean</string>
+    <string name="q1rb3">C- void</string>
+    <string name="q1rb4">D- private</string>
+
+
+    <string name="q2rb1">A- 8 bit</string>
+    <string name="q2rb2">B- 16 bit</string>
+    <string name="q2rb3">C- 32 bit</string>
+    <string name="q2rb4">D- 64 bit</string>
+
+    <string name="q3rb1">A- 0</string>
+    <string name="q3rb2">B- 0.0</string>
+    <string name="q3rb3">C- null</string>
+    <string name="q3rb4">D- not defined</string>
+
+    <string name="q4rb1">A- Static Binding</string>
+    <string name="q4rb2">B- Dynamic Binding</string>
+    <string name="q4rb3">C- Both of the above</string>
+    <string name="q4rb4">d- None of the above</string>
+    <string name="app_name">Java Quiz</string>
+    <string name="question_1">Q 1 - Which of the following is not a keyword in java?</string>
+    <string name="question_2">Q 2 - What is the size of char variable?</string>
+
+    <string name="question_3">Q 3 - What is the default value of int variable?</string>
+    <string name="question_4">Q 4 - Method Overloading is an example of</string>
+    <string name="question_5">Q 5 - Can try statements be nested?</string>
+
+    <string name="q5rb1">A- True</string>
+    <string name="q5rb2">B- False</string>
+
+    <string name="submit">Submit</string>
+    <string name="java_quiz">Java Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+
+
+</resources>
